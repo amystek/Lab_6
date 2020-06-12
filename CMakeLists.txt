@@ -3,4 +3,4 @@ project(Lab_6)
 
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(Lab_6 main.cpp main.h)
+add_executable(Lab_6 main.cpp main.h CTreeDynamic.h)
